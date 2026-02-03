@@ -257,7 +257,7 @@ By using CloudReaper, you agree to:
 **HUNT3R**
 
 - 📝 [Medium](https://medium.com/@imadouguahi)
-- 💻 [GitHub](https://github.com/Start-a-Town)
+- 💻 [Me](https://imadouguahi.me/)
 - 💬 Telegram: @hunt3rxxxx
 
 ---
